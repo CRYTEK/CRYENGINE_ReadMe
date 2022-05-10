@@ -25,4 +25,4 @@ Make sure that you include your GitHub username in your message. Following this,
 ## Reporting Bugs
 Bugs and other issues can be reported via the Issues tab in the private GitHub repository, once you've access request has been approved.
 
-5.7.0
+5.7.1
